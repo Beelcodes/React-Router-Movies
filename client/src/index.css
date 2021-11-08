@@ -44,7 +44,7 @@ body {
   margin: 0 10px;
 }
 .saved-active {
-  color: blue;
+  color: rgb(73, 73, 197);
   border: 1px solid grey;
   padding: 5px;
 }
@@ -68,5 +68,5 @@ body {
 
 .home-button {
   padding: 5px 10px;
-  background-color: lightskyblue;
+  background-color: rgb(186, 105, 240);
 }
